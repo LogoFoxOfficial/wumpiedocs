@@ -2,6 +2,10 @@
 
 * [Wumpie Premium Command List](README.md)
 
+## Home
+
+* [Changelog](home/changelog.md)
+
 ## Music <a id="music-commands"></a>
 
 * [Play](music-commands/play.md)
@@ -18,4 +22,5 @@
 ## Moderation
 
 * [Ban](moderation/ban.md)
+* [Kick](moderation/kick.md)
 
