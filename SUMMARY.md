@@ -6,6 +6,16 @@
 
 * [Changelog](home/changelog.md)
 
+## Moderation
+
+* [Ban](moderation/ban.md)
+* [Kick](moderation/kick.md)
+* [Warn](moderation/warn.md)
+* [Unwarn](moderation/unwarn.md)
+* [Warnings](moderation/warnings.md)
+* [Mute](moderation/mute.md)
+* [Tempmute](moderation/tempmute.md)
+
 ## Music <a id="music-commands"></a>
 
 * [Play](music-commands/play.md)
@@ -18,9 +28,4 @@
 * [Volume](music-commands/volume.md)
 * [Songinfo](music-commands/songinfo.md)
 * [Loop](music-commands/loop.md)
-
-## Moderation
-
-* [Ban](moderation/ban.md)
-* [Kick](moderation/kick.md)
 
