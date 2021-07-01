@@ -1,8 +1,8 @@
----
-description: With this command you can check the current warn count from a User
----
-
 # Warnings
+
+#### Description:
+
+Shows all user's warnings.
 
 #### Usage:
 
@@ -10,5 +10,16 @@ description: With this command you can check the current warn count from a User
 W!warnings {Mention}
 ```
 
+**Arguments:**
 
+```text
+{Mention} - A user mention or User ID
+```
+
+**Syntax:**
+
+```text
+{} - Required
+[] - Optional
+```
 

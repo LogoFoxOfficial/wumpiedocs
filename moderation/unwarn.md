@@ -1,8 +1,8 @@
----
-description: This command will remove a warning from a user
----
-
 # Unwarn
+
+#### Description:
+
+Removes a warning from a user.
 
 #### Usage:
 
@@ -10,5 +10,16 @@ description: This command will remove a warning from a user
 W!unwarn {Mention}
 ```
 
+**Arguments:**
 
+```text
+{Mention} - A user mention or User ID
+```
+
+**Syntax:**
+
+```text
+{} - Required
+[] - Optional
+```
 
