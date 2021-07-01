@@ -1,8 +1,8 @@
----
-description: Shows some info about the current song in the queue
----
-
 # Songinfo
+
+#### Description:
+
+Gives info about the current song.
 
 #### Usage:
 

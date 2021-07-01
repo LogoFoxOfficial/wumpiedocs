@@ -10,17 +10,23 @@ Mute a naughty person who breaks the rules.
 W!mute {Mention} {Reason}
 ```
 
+#### Permission:
+
+```text
+You need Manage Roles permission to use this command.
+```
+
 **Arguments:**
 
 ```text
-{Mention} - A user mention or User ID
-{Reason} - A reason for mute
+{Mention} - A user mention or User ID.
+{Reason} - A reason for mute.
 ```
 
 **Syntax:**
 
 ```text
-{} - Required
-[] - Optional
+{} - Required.
+[] - Optional.
 ```
 

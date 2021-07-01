@@ -1,8 +1,8 @@
----
-description: This command will show the music queue
----
-
 # Queue
+
+#### Description:
+
+Shows the current queue.
 
 #### Usage:
 

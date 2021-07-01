@@ -10,17 +10,23 @@ Kicks a member from the server you've executed the command.
 W!kick {Mention/ID} [Reason]
 ```
 
+#### Permission:
+
+```text
+You need Kick Members permission to use this command.
+```
+
 **Arguments:**
 
 ```text
-{Mention} - A user mention or User ID
-[Reason] - A reason for kick
+{Mention} - A user mention or User ID.
+[Reason] - A reason for kick.
 ```
 
 **Syntax:**
 
 ```text
-{} - Required
-[] - Optional
+{} - Required.
+[] - Optional.
 ```
 

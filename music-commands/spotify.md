@@ -1,8 +1,12 @@
----
-description: With this command you can play Spotify songs
----
-
 # Spotify
+
+{% hint style="info" %}
+Links can be Playlists and Songs \(https://open.spotify.com/track/example\).
+{% endhint %}
+
+#### Description:
+
+Plays a song/playlist from the Spotify link.
 
 #### Usage:
 
@@ -10,9 +14,16 @@ description: With this command you can play Spotify songs
 W!spotify {Link}
 ```
 
-{% hint style="info" %}
-Links can be Playlists and Songs \(https://open.spotify.com/track/example\)
-{% endhint %}
+**Arguments:**
 
+```text
+{Link} - A link of spotify music/playlist.
+```
 
+**Syntax:**
+
+```text
+{} - Required.
+[] - Optional.
+```
 

@@ -1,8 +1,8 @@
----
-description: This command will pause the current queue
----
-
 # Pause
+
+#### Description:
+
+Pauses the current song.
 
 #### Usage:
 

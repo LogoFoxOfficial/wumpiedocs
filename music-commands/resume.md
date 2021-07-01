@@ -1,8 +1,8 @@
----
-description: With this command you can resume the current queue
----
-
 # Resume
+
+#### Description:
+
+Resumes the current song.
 
 #### Usage:
 

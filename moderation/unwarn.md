@@ -10,16 +10,22 @@ Removes a warning from a user.
 W!unwarn {Mention}
 ```
 
+#### Permission:
+
+```text
+You need * permission to use this command.
+```
+
 **Arguments:**
 
 ```text
-{Mention} - A user mention or User ID
+{Mention} - A user mention or User ID.
 ```
 
 **Syntax:**
 
 ```text
-{} - Required
-[] - Optional
+{} - Required.
+[] - Optional.
 ```
 

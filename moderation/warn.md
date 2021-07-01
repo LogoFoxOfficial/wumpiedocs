@@ -10,17 +10,23 @@ Warn naughty users for rule-breaking.
 W!warn {Mention} {Reason}
 ```
 
+#### Permission:
+
+```text
+You need Kick Members permission to use this command.
+```
+
 **Arguments:**
 
 ```text
-{Mention} - A user mention
-{Reason} - A reason for warn
+{Mention} - A user mention.
+{Reason} - A reason for warn.
 ```
 
 **Syntax:**
 
 ```text
-{} - Required
-[] - Optional
+{} - Required.
+[] - Optional.
 ```
 
