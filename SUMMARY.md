@@ -22,6 +22,8 @@
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
 * [Setmainrole](moderation/setmainrole.md)
+* [Createservertemplate](moderation/createservertemplate.md)
+* [Communityupdateschannel](moderation/communityupdateschannel.md)
 
 ## Information
 
@@ -43,12 +45,12 @@
 * [Disablelogs](logs/disablelogs.md)
 * [Auditlog](logs/auditlog.md)
 
-## PROTECTIONS
+## Protections
 
 * [Enableantilink](protections/enableantilink.md)
 * [Disableantilink](protections/disableantilink.md)
 
-## fun
+## Fun
 
 * [Fox](fun/fox.md)
 * [Dog](fun/dog.md)
@@ -69,9 +71,16 @@
 * [Songinfo](music-commands/songinfo.md)
 * [Loop](music-commands/loop.md)
 
-## leveling
+## Leveling
 
 * [Setlevelchannel](leveling/setlevelchannel.md)
 * [Levelconfig](leveling/levelconfig.md)
 * [Rank](leveling/rank.md)
+
+## utility
+
+* [AFK](utility/afk.md)
+* [Steal](utility/steal.md)
+* [Covid](utility/covid.md)
+* [Translate](utility/translate.md)
 
