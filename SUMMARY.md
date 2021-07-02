@@ -16,6 +16,11 @@
 * [Mute](moderation/mute.md)
 * [Clear](moderation/clear.md)
 * [Slowmode](moderation/slowmode.md)
+* [Giverole](moderation/giverole.md)
+* [Takerole](moderation/takerole.md)
+* [Lockdown](moderation/lockdown.md)
+* [Unlock](moderation/unlock.md)
+* [Setmainrole](moderation/setmainrole.md)
 
 ## Music <a id="music-commands"></a>
 
