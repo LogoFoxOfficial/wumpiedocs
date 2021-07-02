@@ -22,6 +22,10 @@
 * [Unlock](moderation/unlock.md)
 * [Setmainrole](moderation/setmainrole.md)
 
+## Information
+
+* [Untitled](information/untitled.md)
+
 ## Music <a id="music-commands"></a>
 
 * [Play](music-commands/play.md)
