@@ -8,6 +8,8 @@ description: Here you can see all features and commands of Wumpie Premium
 This page is in development!
 {% endhint %}
 
+## Command Categories:
+
 
 
 
