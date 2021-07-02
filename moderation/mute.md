@@ -7,7 +7,7 @@ Mute a naughty person who breaks the rules.
 #### Usage:
 
 ```text
-W!mute {Mention} {Reason}
+W!mute {Mention} {Time}
 ```
 
 #### Permission:
@@ -20,7 +20,7 @@ You need Manage Roles permission to use this command.
 
 ```text
 {Mention} - A user mention or User ID.
-{Reason} - A reason for mute.
+{Time} - For what time should user be muted? Xs - Seconds, Xm - Minutes, Xh - hours (Replace X with your number).
 ```
 
 **Syntax:**
