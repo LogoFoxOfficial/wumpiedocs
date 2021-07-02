@@ -15,6 +15,7 @@
 * [Warnings](moderation/warnings.md)
 * [Mute](moderation/mute.md)
 * [Tempmute](moderation/tempmute.md)
+* [Clear](moderation/clear.md)
 
 ## Music <a id="music-commands"></a>
 
