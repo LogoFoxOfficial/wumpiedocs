@@ -1,13 +1,13 @@
-# Userinfo
+# Rank
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows you your current level, how much xp you have at your current level and how much is needed for a level-up
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!rank [Mention]
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+[Mention] - Optional user mention or User ID.
 ```
 
 #### Syntax:

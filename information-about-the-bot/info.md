@@ -1,13 +1,13 @@
-# Userinfo
+# Info
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows info about Wumpie
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!info
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

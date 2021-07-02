@@ -1,13 +1,13 @@
-# Userinfo
+# Dog
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows a picture of a dog 
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!dog 
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

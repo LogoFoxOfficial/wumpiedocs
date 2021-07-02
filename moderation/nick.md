@@ -1,13 +1,13 @@
-# Userinfo
+# Nick
 
 **Description:**
 
-Shows some information about the mentioned member
+Gives you the new nickname on the current server
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!nick {Nickname}
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+{Nickname} - New nickname
 ```
 
 #### Syntax:

@@ -1,13 +1,13 @@
-# Userinfo
+# Cat
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows a picture of a cat
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!cat
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

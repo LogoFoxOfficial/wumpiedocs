@@ -1,13 +1,13 @@
-# Userinfo
+# Serverinfo
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows some information about the server the command was executed
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!serverinfo
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

@@ -18,13 +18,43 @@
 * [Slowmode](moderation/slowmode.md)
 * [Giverole](moderation/giverole.md)
 * [Takerole](moderation/takerole.md)
+* [Nick](moderation/nick.md)
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
 * [Setmainrole](moderation/setmainrole.md)
 
 ## Information
 
-* [Untitled](information/untitled.md)
+* [Userinfo](information/untitled.md)
+* [Channelinfo](information/channelinfo.md)
+* [Serverinfo](information/serverinfo.md)
+* [Roleinfo](information/roleinfo.md)
+
+## Information about the bot
+
+* [Info](information-about-the-bot/info.md)
+* [Ping](information-about-the-bot/ping.md)
+* [Invite](information-about-the-bot/invite.md)
+* [Error](information-about-the-bot/error.md)
+
+## logs
+
+* [Enablelogs](logs/enablelogs.md)
+* [Disablelogs](logs/disablelogs.md)
+* [Auditlog](logs/auditlog.md)
+
+## PROTECTIONS
+
+* [Enableantilink](protections/enableantilink.md)
+* [Disableantilink](protections/disableantilink.md)
+
+## fun
+
+* [Fox](fun/fox.md)
+* [Dog](fun/dog.md)
+* [Cat](fun/cat.md)
+* [Hack](fun/hack.md)
+* [Button](fun/button.md)
 
 ## Music <a id="music-commands"></a>
 
@@ -38,4 +68,10 @@
 * [Volume](music-commands/volume.md)
 * [Songinfo](music-commands/songinfo.md)
 * [Loop](music-commands/loop.md)
+
+## leveling
+
+* [Setlevelchannel](leveling/setlevelchannel.md)
+* [Levelconfig](leveling/levelconfig.md)
+* [Rank](leveling/rank.md)
 

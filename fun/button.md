@@ -1,13 +1,13 @@
-# Userinfo
+# Button
 
 **Description:**
 
-Shows some information about the mentioned member
+Just a button that appears in the chat where you used the command
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!button
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

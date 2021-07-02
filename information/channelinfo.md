@@ -1,13 +1,13 @@
-# Userinfo
+# Channelinfo
 
 **Description:**
 
-Shows some information about the mentioned member
+Shows some information about the channel the command was executed
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!channelinfo 
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+None
 ```
 
 #### Syntax:

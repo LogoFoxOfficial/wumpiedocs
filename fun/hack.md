@@ -1,13 +1,13 @@
-# Userinfo
+# Hack
 
 **Description:**
 
-Shows some information about the mentioned member
+Troll your friends with a hack
 
 #### Usage:
 
 ```text
-W!userinfo [Mention]
+W!hack {Mention}
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ No special permissions needed for this command
 #### Arguments:
 
 ```text
-[Mention] - A user mention or User ID.
+{Mention} - A user mention or User ID.
 ```
 
 #### Syntax:
