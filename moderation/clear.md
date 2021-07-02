@@ -11,6 +11,10 @@ Deletes the specified amount of messages in a channel
 W!clear/purge {Amount}
 ```
 
+{% hint style="info" %}
+W!clear has a alias called "W!purge"
+{% endhint %}
+
 #### Permissions:
 
 ```text
