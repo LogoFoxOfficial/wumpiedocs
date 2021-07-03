@@ -4,7 +4,7 @@
 
 ## Home
 
-* [Changelog](home/changelog.md)
+* [Changelog](home/changelogs.md)
 
 ## Moderation
 
