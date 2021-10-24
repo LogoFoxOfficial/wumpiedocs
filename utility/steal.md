@@ -2,7 +2,7 @@
 
 **Description:**
 
-Steals/Copys a emoji from a server 
+Steals/Copys a emoji from a server&#x20;
 
 {% hint style="warning" %}
 Nitro is required for this command
@@ -10,27 +10,26 @@ Nitro is required for this command
 
 #### Usage:
 
-```text
+```
 W!steal {Emoji} {Name} 
 ```
 
 #### Permissions:
 
-```text
+```
 For this command you need Admin permission
 ```
 
 #### Arguments:
 
-```text
+```
 {Emoji} - emoji from other server 
 {Name} - name of emoji that will be on your server
 ```
 
 #### Syntax:
 
-```text
+```
 {} - Required.
 [] - Optional.
 ```
-

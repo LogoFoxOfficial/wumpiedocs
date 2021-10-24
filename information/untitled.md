@@ -6,26 +6,25 @@ Shows some information about the mentioned member
 
 #### Usage:
 
-```text
+```
 W!userinfo [Mention]
 ```
 
 #### Permissions:
 
-```text
+```
 No special permissions needed for this command
 ```
 
 #### Arguments:
 
-```text
+```
 [Mention] - A user mention or User ID.
 ```
 
 #### Syntax:
 
-```text
+```
 {} - Required.
 [] - Optional.
 ```
-

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wumpie Premium Command List](README.md)
+* [Wumpie Command List](README.md)
 
 ## Home
 
@@ -58,7 +58,7 @@
 * [Hack](fun/hack.md)
 * [Button](fun/button.md)
 
-## Music <a id="music-commands"></a>
+## Music <a href="music-commands" id="music-commands"></a>
 
 * [Play](music-commands/play.md)
 * [Spotify](music-commands/spotify.md)
@@ -83,4 +83,3 @@
 * [Steal](utility/steal.md)
 * [Covid](utility/covid.md)
 * [Translate](utility/translate.md)
-

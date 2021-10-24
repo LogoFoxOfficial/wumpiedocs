@@ -6,26 +6,25 @@ Enables the antilink-system from wumpie. He will delete discord.gg and discord.c
 
 #### Usage:
 
-```text
+```
 W!enableantilink
 ```
 
 #### Permissions:
 
-```text
+```
 For this command you need Admin permission
 ```
 
 #### Arguments:
 
-```text
+```
 None
 ```
 
 #### Syntax:
 
-```text
+```
 {} - Required.
 [] - Optional.
 ```
-

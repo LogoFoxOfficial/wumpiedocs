@@ -4,12 +4,12 @@
 
 ### **Fixes:**
 
-* **Fixed W!ban** \| You can’t ban yourself
-* **Fixed W!kick** \| You can’t kick yourself
-* **Fixed W!ban** \| If you try to ban the Owner of a server you get the correct error
-* **Fixed W!kick** \| If you try to kick the Owner of a server you get the correct error
-* **Fixed Ban-Logs** \| Added Requirement !=Owner and !=Author
-* **Fixed Kick-Logs** \| Added Requirement !=Owner and !=Author
+* **Fixed W!ban** | You can’t ban yourself
+* **Fixed W!kick** | You can’t kick yourself
+* **Fixed W!ban** | If you try to ban the Owner of a server you get the correct error
+* **Fixed W!kick** | If you try to kick the Owner of a server you get the correct error
+* **Fixed Ban-Logs** | Added Requirement !=Owner and !=Author
+* **Fixed Kick-Logs** | Added Requirement !=Owner and !=Author
 
 ### **The Cosmetic changes:**
 
@@ -19,7 +19,7 @@
 
 ### **New Command:**
 
-* **W!button \|** Just a button which appears
+* **W!button | **Just a button which appears
 
 ## UPDATE 1.2.97 - June 16th 2021
 
@@ -27,43 +27,43 @@ In this Update we added the **Command** **W!rank** and modified the **Level-Up M
 
 _**Hope you enjoy it.**_
 
-## HOTFIX 1.2.96 _**-**_ June 16th 2021
+## HOTFIX 1.2.96 _**- **_June 16th 2021
 
-We released a hotfix yesterday that fixed an XP Issue in the **Leveling System** and we also added a **cooldown of 15 Seconds** to the Level System as spam protection.
+We released a hotfix yesterday that fixed an XP Issue in the** Leveling System** and we also added a **cooldown of 15 Seconds** to the Level System as spam protection.
 
 ## UPDATE 1.2.95 - June 14th 2021
 
-### Fixes: 
+### Fixes:&#x20;
 
-* **Fixed Antilink System** \| Wumpie won’t delete Discord Links from Members with Admin Perms – Wumpie won’t delete Message Links anymore
+* **Fixed Antilink System** | Wumpie won’t delete Discord Links from Members with Admin Perms – Wumpie won’t delete Message Links anymore
 * **Removed** the Sus-Antilink System
 
 ### New Commands:
 
-* Leveling System 
-* W!setlevelchannel 
+* Leveling System&#x20;
+* W!setlevelchannel&#x20;
 * W!levelconfig
 
 ## UPDATE 1.2.9 - June 3rd 2021
 
-### New Commands: 
+### New Commands:&#x20;
 
-* **Added W!lockdown**  \| Will set the Server on lockdown
-* **Added W!unlock** \| Will unlock all channels
-* **Added W!setmainrole** \| You can specify the mainrole of your Server, highly recommended when you want to use lockdown
+* **Added W!lockdown**  | Will set the Server on lockdown
+* **Added W!unlock** | Will unlock all channels
+* **Added W!setmainrole** | You can specify the mainrole of your Server, highly recommended when you want to use lockdown
 
 ## UPDATE 1.2.8 - May 27th 2021
 
-**What happened in this Update?**  
-We brought Music Commands back to Wumpie Premium since Wumpus has enough power, he can play music without any problems.
+**What happened in this Update?**\
+****We brought Music Commands back to Wumpie Premium since Wumpus has enough power, he can play music without any problems.
 
 The commands “**play, stop, skip, skipto, volume, pause, resume, leave, loop** and **spotify**” were added.
 
-**Tiny Patch from the 26th May 2021**  
-The Commands **W!takerole** and **W!giverole** were added.  
+**Tiny Patch from the 26th May 2021**\
+****The Commands **W!takerole** and **W!giverole** were added.\
 We fixed error messages in **W!ban** and **W!kick**
 
-## UPDATE 1.2.7 **-** May 27th 2021
+## UPDATE 1.2.7** - **May 27th 2021
 
 ### **Fixed, Optimized and disabled Commands in this Update**
 
@@ -87,7 +87,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.6 “LET’S CODE” - March 22nd 2021
 
-### New Commands: 
+### New Commands:&#x20;
 
 * W!java
 * W!javascript
@@ -97,9 +97,9 @@ We fixed error messages in **W!ban** and **W!kick**
 * W!csharp
 * W!cpp
 
-#### _**Usage for all Commands: `W!java {Code/Text}`**_
+#### _**Usage for all Commands: ****`W!java {Code/Text}`**_
 
-## UPDATE 1.2.5 _**-**_ March 15th 2021
+## UPDATE 1.2.5_** - **_March 15th 2021
 
 ### Fixes:
 
@@ -112,7 +112,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.4 - March 1st 2021
 
-### Fixes: 
+### Fixes:&#x20;
 
 * general bug-fixes
 * logs re-designed
@@ -131,7 +131,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 * **w!clear/purge {amount}** has been added to moderation commands
 
-## HOTFIX 1.2.2 \(2202-1000\) - February 22nd 2021
+## HOTFIX 1.2.2 (2202-1000) - February 22nd 2021
 
 **W!play** enabled
 
@@ -139,7 +139,7 @@ We fixed error messages in **W!ban** and **W!kick**
 **W!spotify** may not work at the moment
 {% endhint %}
 
-## PATCH 1.2.2 \(2102-1340\) - February 21st 2021
+## PATCH 1.2.2 (2102-1340) - February 21st 2021
 
 ### Fixes:
 
@@ -158,10 +158,10 @@ We fixed error messages in **W!ban** and **W!kick**
 ### New commands:
 
 * **w!mute {user mention} {reason}** added to moderation commands
-* **w!tempmute {user mention} {time \(s-seconds, m-minutes,h-hours\)}** added to moderation commands
+* **w!tempmute {user mention} {time (s-seconds, m-minutes,h-hours)}** added to moderation commands
 * **w!unmute {user mention}** added to moderation commands
 
-## PATCH 1.2.1 \(1902-1904\) - February 19th 2021
+## PATCH 1.2.1 (1902-1904) - February 19th 2021
 
 ### Fixes:
 
@@ -170,16 +170,15 @@ We fixed error messages in **W!ban** and **W!kick**
 * banlog bugs fixed
 * kicklog bugs fixed
 * channelinfo temporarily disabled
-* music system temporarily disabled \(api errors with host\)
+* music system temporarily disabled (api errors with host)
 
 ### New Command:
 
 * **!rename {user mention} {new name}** added to utility commands
 
-## PATCH 1.2.0 \(1802-0001\) - February 18-20th 2021
+## PATCH 1.2.0 (1802-0001) - February 18-20th 2021
 
 ### Fixes:
 
 * help command changed
 * perfomance improved
-

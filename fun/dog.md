@@ -2,30 +2,29 @@
 
 **Description:**
 
-Shows a picture of a dog 
+Shows a picture of a dog&#x20;
 
 #### Usage:
 
-```text
+```
 W!dog 
 ```
 
 #### Permissions:
 
-```text
+```
 No special permissions needed for this command
 ```
 
 #### Arguments:
 
-```text
+```
 None
 ```
 
 #### Syntax:
 
-```text
+```
 {} - Required.
 [] - Optional.
 ```
-

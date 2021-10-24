@@ -2,30 +2,29 @@
 
 **Description:**
 
-Shows Covid-19 Global Stats 
+Shows Covid-19 Global Stats&#x20;
 
 #### Usage:
 
-```text
+```
 W!covid 
 ```
 
 #### Permissions:
 
-```text
+```
 No special permissions needed for this command
 ```
 
 #### Arguments:
 
-```text
+```
 None
 ```
 
 #### Syntax:
 
-```text
+```
 {} - Required.
 [] - Optional.
 ```
-
