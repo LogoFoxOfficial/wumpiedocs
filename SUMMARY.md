@@ -6,6 +6,10 @@
 
 * [Changelog](home/changelogs.md)
 
+## Security
+
+* [Security](security/security.md)
+
 ## Moderation
 
 * [Ban](moderation/ban.md)
