@@ -1,6 +1,19 @@
 # Changelog
 
-## Update SECURITY Released! - November 04th 2021
+## Patch 04112021-2150 Released! - November 4th 2021
+
+* **Fixed** an issue where Wumpie reacts to Webhooks&#x20;
+* **Fixed** some button colors in Security System
+* **Removed **W!enableantilink
+* **Removed** W!disableantilink
+* **Added** more buttons to interact with the Security System FLUENTLY
+* **Added** Antilink System to Security System
+
+{% hint style="danger" %}
+Antilink needs to be re-enabled after that patch
+{% endhint %}
+
+## Update SECURITY Released! - October 26th 2021
 
 ### New Command:
 

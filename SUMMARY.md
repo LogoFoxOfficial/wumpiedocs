@@ -49,11 +49,6 @@
 * [Disablelogs](logs/disablelogs.md)
 * [Auditlog](logs/auditlog.md)
 
-## Protections
-
-* [Enableantilink](protections/enableantilink.md)
-* [Disableantilink](protections/disableantilink.md)
-
 ## Fun
 
 * [Fox](fun/fox.md)
