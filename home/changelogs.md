@@ -2,22 +2,22 @@
 
 ## Patch 04112021-2150 Released! - November 4th 2021
 
-* **Fixed** an issue where Wumpie reacts to Webhooks&#x20;
-* **Fixed** some button colors in Security System
-* **Removed **W!enableantilink
-* **Removed** W!disableantilink
-* **Added** more buttons to interact with the Security System FLUENTLY
-* **Added** Antilink System to Security System
+* <mark style="color:green;">**Fixed**</mark> an issue where Wumpie reacts to Webhooks&#x20;
+* <mark style="color:green;">**Fixed**</mark> some button colors in Security System
+* <mark style="color:red;">**Removed**</mark>** ** W!enableantilink
+* <mark style="color:red;">**Removed**</mark> W!disableantilink
+* <mark style="color:blue;">**Added**</mark> more buttons to interact with the Security System FLUENTLY
+* <mark style="color:blue;">**Added**</mark> Antilink System to Security System
 
 {% hint style="danger" %}
-Antilink needs to be re-enabled after that patch
+Antilink needs to be **re-enabled** after that patch
 {% endhint %}
 
 ## Update SECURITY Released! - October 26th 2021
 
 ### New Command:
 
-* **w!security** | This command will open a panel **(Admin Only) **which allows you to enable or disable the **Security & Safety** feature This feature prevents Discord Nitro Scammers for example to post their messages. They will get banned IMMEDIEATELY and the message will also get deleted by Wumpie
+* **w!security** | This command will open a panel **(Admin Only)** which allows you to enable or disable the **Security & Safety** feature This feature prevents Discord Nitro Scammers for example to post their messages. They will get banned IMMEDIEATELY and the message will also get deleted by Wumpie
 
 ## UPDATE 1.3.0 - June 29th 2021
 
@@ -38,7 +38,7 @@ Antilink needs to be re-enabled after that patch
 
 ### **New Command:**
 
-* **W!button | **Just a button which appears
+* **W!button |** Just a button which appears
 
 ## UPDATE 1.2.97 - June 16th 2021
 
@@ -46,9 +46,9 @@ In this Update we added the **Command** **W!rank** and modified the **Level-Up M
 
 _**Hope you enjoy it.**_
 
-## HOTFIX 1.2.96 _**- **_June 16th 2021
+## HOTFIX 1.2.96 _**-**_ June 16th 2021
 
-We released a hotfix yesterday that fixed an XP Issue in the** Leveling System** and we also added a **cooldown of 15 Seconds** to the Level System as spam protection.
+We released a hotfix yesterday that fixed an XP Issue in the **Leveling System** and we also added a **cooldown of 15 Seconds** to the Level System as spam protection.
 
 ## UPDATE 1.2.95 - June 14th 2021
 
@@ -82,7 +82,7 @@ The commands “**play, stop, skip, skipto, volume, pause, resume, leave, loop**
 ****The Commands **W!takerole** and **W!giverole** were added.\
 We fixed error messages in **W!ban** and **W!kick**
 
-## UPDATE 1.2.7** - **May 27th 2021
+## UPDATE 1.2.7 **-** May 27th 2021
 
 ### **Fixed, Optimized and disabled Commands in this Update**
 
@@ -116,9 +116,9 @@ We fixed error messages in **W!ban** and **W!kick**
 * W!csharp
 * W!cpp
 
-#### _**Usage for all Commands: ****`W!java {Code/Text}`**_
+#### _**Usage for all Commands:**** ****`W!java {Code/Text}`**_
 
-## UPDATE 1.2.5_** - **_March 15th 2021
+## UPDATE 1.2.5 _**-**_ March 15th 2021
 
 ### Fixes:
 

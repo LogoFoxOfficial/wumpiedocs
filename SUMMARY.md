@@ -2,15 +2,15 @@
 
 * [Wumpie Command List](README.md)
 
-## Home
+## 🏠 Home
 
 * [Changelog](home/changelogs.md)
 
-## Security
+## 🛡 Security
 
 * [Security](security/security.md)
 
-## Moderation
+## 🛠 Moderation
 
 * [Ban](moderation/ban.md)
 * [Kick](moderation/kick.md)
@@ -29,27 +29,27 @@
 * [Createservertemplate](moderation/createservertemplate.md)
 * [Communityupdateschannel](moderation/communityupdateschannel.md)
 
-## Information
+## ℹ Information
 
 * [Userinfo](information/untitled.md)
 * [Channelinfo](information/channelinfo.md)
 * [Serverinfo](information/serverinfo.md)
 * [Roleinfo](information/roleinfo.md)
 
-## Information about the bot
+## 🤖 Information about the bot
 
 * [Info](information-about-the-bot/info.md)
 * [Ping](information-about-the-bot/ping.md)
 * [Invite](information-about-the-bot/invite.md)
 * [Error](information-about-the-bot/error.md)
 
-## logs
+## 🔙 Logs
 
 * [Enablelogs](logs/enablelogs.md)
 * [Disablelogs](logs/disablelogs.md)
 * [Auditlog](logs/auditlog.md)
 
-## Fun
+## 🎲 Fun
 
 * [Fox](fun/fox.md)
 * [Dog](fun/dog.md)
@@ -57,7 +57,7 @@
 * [Hack](fun/hack.md)
 * [Button](fun/button.md)
 
-## Music <a href="music-commands" id="music-commands"></a>
+## 🎵 Music <a href="#music-commands" id="music-commands"></a>
 
 * [Play](music-commands/play.md)
 * [Spotify](music-commands/spotify.md)
@@ -70,13 +70,13 @@
 * [Songinfo](music-commands/songinfo.md)
 * [Loop](music-commands/loop.md)
 
-## Leveling
+## 📈 Leveling
 
 * [Setlevelchannel](leveling/setlevelchannel.md)
 * [Levelconfig](leveling/levelconfig.md)
 * [Rank](leveling/rank.md)
 
-## utility
+## ✨ Utility
 
 * [AFK](utility/afk.md)
 * [Steal](utility/steal.md)
