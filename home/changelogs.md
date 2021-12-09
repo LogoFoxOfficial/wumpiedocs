@@ -1,13 +1,49 @@
+---
+description: Latest changes of Wumpie
+cover: ../.gitbook/assets/changelog.png
+coverY: 0
+---
+
 # Changelog
+
+## **Patch 091221.1510 released**
+
+* <mark style="color:green;">**Added**</mark> command "Warn"
+* <mark style="color:green;">**Added**</mark> command "Unwarn"
+* <mark style="color:green;">**Added**</mark> command "Warnings"
+* <mark style="color:orange;">**Improved**</mark> Responsetime
+
+## **Patch 081221.1950 released**
+
+* <mark style="color:green;">**Added**</mark> Language menu to settings | English only
+* <mark style="color:orange;">**Split**</mark> Help menu in categories | English only
+
+## **Patch 081221.1655 released - December 8th 2021**
+
+* <mark style="color:green;">**Fixed**</mark> Missing argument in [W!kick](../moderation/kick.md)
+
+## Little Changes - December 6th 2021
+
+* <mark style="color:green;">**Improved**</mark> VPS Performance
+* <mark style="color:green;">**Daemonized**</mark> Wumpus Process = Restarts after crash
+
+## Wumpie Version II - November 24th 2021
+
+* <mark style="color:green;">**Added**</mark> Multi Language Support
+* <mark style="color:orange;">**Changed**</mark> Help Command > Help Menu (Added Language and Security System Menus to it)
+* <mark style="color:orange;">**Changed**</mark> Error Design
+* <mark style="color:red;">**Removed**</mark> Music System
+* <mark style="color:red;">**Removed**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> All Music Commands
+* <mark style="color:red;">**Removed**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> Statistics System in Wumpus Community
 
 ## Patch 04112021-2150 Released! - November 4th 2021
 
-* <mark style="color:green;">**Fixed**</mark> an issue where Wumpie reacts to Webhooks&#x20;
-* <mark style="color:green;">**Fixed**</mark> some button colors in Security System
+* <mark style="color:green;">**Added**</mark> more buttons to interact with the Security System FLUENTLY
+* <mark style="color:green;">**Added**</mark> Antilink System to Security System
+* <mark style="color:blue;">**Fixed**</mark> an issue where Wumpie reacts to Webhooks&#x20;
+* <mark style="color:blue;">**Fixed**</mark> some button colors in Security System
 * <mark style="color:red;">**Removed**</mark>** ** W!enableantilink
 * <mark style="color:red;">**Removed**</mark> W!disableantilink
-* <mark style="color:blue;">**Added**</mark> more buttons to interact with the Security System FLUENTLY
-* <mark style="color:blue;">**Added**</mark> Antilink System to Security System
 
 {% hint style="danger" %}
 Antilink needs to be **re-enabled** after that patch
@@ -15,13 +51,11 @@ Antilink needs to be **re-enabled** after that patch
 
 ## Update SECURITY Released! - October 26th 2021
 
-### New Command:
-
-* **w!security** | This command will open a panel **(Admin Only)** which allows you to enable or disable the **Security & Safety** feature This feature prevents Discord Nitro Scammers for example to post their messages. They will get banned IMMEDIEATELY and the message will also get deleted by Wumpie
+* <mark style="color:green;">**Added**</mark> command "Security"
 
 ## UPDATE 1.3.0 - June 29th 2021
 
-### **Fixes:**
+#### **Fixes:**
 
 * **Fixed W!ban** | You can’t ban yourself
 * **Fixed W!kick** | You can’t kick yourself
@@ -30,13 +64,13 @@ Antilink needs to be **re-enabled** after that patch
 * **Fixed Ban-Logs** | Added Requirement !=Owner and !=Author
 * **Fixed Kick-Logs** | Added Requirement !=Owner and !=Author
 
-### **The Cosmetic changes:**
+#### **The Cosmetic changes:**
 
 * AFK embeds are using the role color of your/the mentioned member’s Role
 * The mentioned member’s avatar was added to AFK mentions
 * Error messages re-designed
 
-### **New Command:**
+#### **New Command:**
 
 * **W!button |** Just a button which appears
 
@@ -52,12 +86,12 @@ We released a hotfix yesterday that fixed an XP Issue in the **Leveling System**
 
 ## UPDATE 1.2.95 - June 14th 2021
 
-### Fixes:&#x20;
+#### Fixes:&#x20;
 
 * **Fixed Antilink System** | Wumpie won’t delete Discord Links from Members with Admin Perms – Wumpie won’t delete Message Links anymore
 * **Removed** the Sus-Antilink System
 
-### New Commands:
+#### New Commands:
 
 * Leveling System&#x20;
 * W!setlevelchannel&#x20;
@@ -65,7 +99,7 @@ We released a hotfix yesterday that fixed an XP Issue in the **Leveling System**
 
 ## UPDATE 1.2.9 - June 3rd 2021
 
-### New Commands:&#x20;
+#### New Commands:&#x20;
 
 * **Added W!lockdown**  | Will set the Server on lockdown
 * **Added W!unlock** | Will unlock all channels
@@ -84,7 +118,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.7 **-** May 27th 2021
 
-### **Fixed, Optimized and disabled Commands in this Update**
+#### **Fixed, Optimized and disabled Commands in this Update**
 
 * Fixed **W!afk**
 * Fixed **W!nick**
@@ -98,7 +132,7 @@ We fixed error messages in **W!ban** and **W!kick**
 * Optimized **90 commands**
 * Disabled **W!serverinfo**
 
-### New Commands:
+#### New Commands:
 
 * Added **W!hack**
 * Added **W!auditlog**
@@ -106,7 +140,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.6 “LET’S CODE” - March 22nd 2021
 
-### New Commands:&#x20;
+#### New Commands:&#x20;
 
 * W!java
 * W!javascript
@@ -120,33 +154,33 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.5 _**-**_ March 15th 2021
 
-### Fixes:
+#### Fixes:
 
 * Emoji bug fixed in "userinfo" title
 * Emoji bug in error messages from wumpie music fixed
 
-### New Command:
+#### New Command:
 
 * **w!suggest {trigger} {response}** has been added to utility commands
 
 ## UPDATE 1.2.4 - March 1st 2021
 
-### Fixes:&#x20;
+#### Fixes:&#x20;
 
 * general bug-fixes
 * logs re-designed
 
-### New Command:
+#### New Command:
 
 * All logs can now be enabled with one command: **w!enablelogs**
 
 ## UPDATE 1.2.3 “MUSIC UPDATE” - February 24th 2021
 
-### New stuff
+#### New stuff
 
 **The permissions of all music commands have been adjusted.** You now have to be in a voice channel if you want to execute commands from the “music” category
 
-### New Command:
+#### New Command:
 
 * **w!clear/purge {amount}** has been added to moderation commands
 
@@ -160,7 +194,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## PATCH 1.2.2 (2102-1340) - February 21st 2021
 
-### Fixes:
+#### Fixes:
 
 * enable/disable antilink design changed
 * enable/disable message-tracking design changed
@@ -174,7 +208,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## UPDATE 1.2.2 - February 20th 2021
 
-### New commands:
+#### New commands:
 
 * **w!mute {user mention} {reason}** added to moderation commands
 * **w!tempmute {user mention} {time (s-seconds, m-minutes,h-hours)}** added to moderation commands
@@ -182,7 +216,7 @@ We fixed error messages in **W!ban** and **W!kick**
 
 ## PATCH 1.2.1 (1902-1904) - February 19th 2021
 
-### Fixes:
+#### Fixes:
 
 * userinfo bugs fixed
 * roleinfo bugs fixed
@@ -191,13 +225,13 @@ We fixed error messages in **W!ban** and **W!kick**
 * channelinfo temporarily disabled
 * music system temporarily disabled (api errors with host)
 
-### New Command:
+#### New Command:
 
 * **!rename {user mention} {new name}** added to utility commands
 
 ## PATCH 1.2.0 (1802-0001) - February 18-20th 2021
 
-### Fixes:
+#### Fixes:
 
 * help command changed
 * perfomance improved
