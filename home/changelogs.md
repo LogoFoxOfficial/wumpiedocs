@@ -8,9 +8,9 @@ coverY: 0
 
 ## **Patch 091221.1510 released**
 
-* <mark style="color:green;">**Added**</mark> command "Warn"
-* <mark style="color:green;">**Added**</mark> command "Unwarn"
-* <mark style="color:green;">**Added**</mark> command "Warnings"
+* <mark style="color:green;">**Added**</mark> command "[Warn](../moderation/warn.md)"
+* <mark style="color:green;">**Added**</mark> command "[Unwarn](../moderation/unwarn.md)"
+* <mark style="color:green;">**Added**</mark> command "[Warnings](../moderation/warnings.md)"
 * <mark style="color:orange;">**Improved**</mark> Responsetime
 
 ## **Patch 081221.1950 released**
