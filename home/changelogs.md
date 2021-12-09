@@ -6,14 +6,22 @@ coverY: 0
 
 # Changelog
 
-## **Patch 091221.1510 released**
+## Patch 091221.2055 released - December 9th 2021
+
+* <mark style="color:green;">**Added**</mark> Information option to Help Menu
+* <mark style="color:orange;">**Changed**</mark> On and Off Emoji Design of Security System
+* <mark style="color:purple;">**Translated**</mark> command "[Warn](../moderation/warn.md)" to **German**
+* <mark style="color:purple;">**Translated**</mark> command "[Unwarn](../moderation/unwarn.md)" to **German**
+* <mark style="color:purple;">**Translated**</mark> command "[Warnings](../moderation/warnings.md)" to **German**
+
+## **Patch 091221.1510 released -** December 9th 2021
 
 * <mark style="color:green;">**Added**</mark> command "[Warn](../moderation/warn.md)"
 * <mark style="color:green;">**Added**</mark> command "[Unwarn](../moderation/unwarn.md)"
 * <mark style="color:green;">**Added**</mark> command "[Warnings](../moderation/warnings.md)"
 * <mark style="color:orange;">**Improved**</mark> Responsetime
 
-## **Patch 081221.1950 released**
+## **Patch 081221.1950 released** December 8th 2021
 
 * <mark style="color:green;">**Added**</mark> Language menu to settings | English only
 * <mark style="color:orange;">**Split**</mark> Help menu in categories | English only
