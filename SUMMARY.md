@@ -4,7 +4,7 @@
 
 ## 🏠 Home
 
-* [Changelog](home/changelogs.md)
+* [🔁 Changelog](home/changelogs.md)
 
 ## 🛠 Moderation
 

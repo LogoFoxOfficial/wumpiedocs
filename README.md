@@ -8,6 +8,10 @@ cover: .gitbook/assets/wumpdocs.png
 
 ## Command Categories:
 
+{% content-ref url="home/changelogs.md" %}
+[changelogs.md](home/changelogs.md)
+{% endcontent-ref %}
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
