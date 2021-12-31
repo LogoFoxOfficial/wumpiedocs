@@ -27,6 +27,7 @@
 
 * [Ping](information-about-the-bot/ping.md)
 * [Invite](information-about-the-bot/invite.md)
+* [Partners](information-about-the-bot/partners.md)
 
 ## 🎲 Fun
 

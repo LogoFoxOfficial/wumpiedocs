@@ -8,9 +8,9 @@ coverY: 0
 
 ## Update 2.01 released - December 31st 2021
 
-* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "timeout"
+* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "[timeout](../moderation/mute.md)"
 * <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> partners to command "help"
-* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "partners"
+* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "[partners](../information-about-the-bot/partners.md)"
 
 ## Patch 091221.2055 released - December 9th 2021
 
