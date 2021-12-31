@@ -6,6 +6,12 @@ coverY: 0
 
 # Changelog
 
+## Update 2.01 released - December 31st 2021
+
+* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "timeout"
+* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> partners to command "help"
+* <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "partners"
+
 ## Patch 091221.2055 released - December 9th 2021
 
 * <mark style="color:green;">**Added**</mark> Information option to Help Menu

@@ -1,26 +1,26 @@
-# Mute
+# Timeout
 
 #### Description:
 
-Mute a naughty person who breaks the rules.
+Timeout a naughty person who breaks the rules.
 
 #### Usage:
 
 ```
-W!mute {Mention} {Time}
+W!timeout {Mention|ID|Username} {Time}
 ```
 
 #### Permission:
 
 ```
-You need Manage Roles permission to use this command.
+You need kick permissions to use this command.
 ```
 
 **Arguments:**
 
 ```
 {Mention} - A user mention or User ID.
-{Time} - For what time should user be muted? Xs - Seconds, Xm - Minutes, Xh - hours (Replace X with your number).
+{Time} - Values: 60s, 300s, 600s, 1h, 1d, 1w
 ```
 
 **Syntax:**
