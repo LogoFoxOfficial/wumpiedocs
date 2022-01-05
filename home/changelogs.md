@@ -6,6 +6,13 @@ coverY: 0
 
 # 🔁 Changelog
 
+## Update 2.0.2 released - January 5th 2022
+
+* <mark style="color:green;">**Added**</mark> command "button" to public
+* <mark style="color:green;">**Added**</mark> "User mention" option to welcoming
+* <mark style="color:green;">**Added**</mark> user avatar to welcome message
+* <mark style="color:orange;">**Fixed**</mark> some little issues in settings
+
 ## Update 2.01 released - December 31st 2021
 
 * <mark style="color:green;">**Added**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> command "[timeout](../moderation/mute.md)"
