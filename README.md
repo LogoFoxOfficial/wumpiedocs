@@ -1,7 +1,7 @@
 ---
 description: Here you can see all features and commands of Wumpie Premium
 coverY: 0
-cover: .gitbook/assets/wumpdocs.png
+cover: .gitbook/assets/docs.png
 ---
 
 # Wumpie Command List

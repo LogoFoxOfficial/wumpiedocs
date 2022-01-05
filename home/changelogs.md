@@ -1,10 +1,10 @@
 ---
 description: Latest changes of Wumpie
-cover: ../.gitbook/assets/changelog.png
+cover: ../.gitbook/assets/changelog (1).png
 coverY: 0
 ---
 
-# Changelog
+# 🔁 Changelog
 
 ## Update 2.01 released - December 31st 2021
 
